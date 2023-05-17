@@ -1,0 +1,87 @@
+{
+  "gato": {
+    "é_um": ["animal", "felino"],
+    "tem": ["pelo", "patas"],
+    "come": ["rato", "peixe", "carne"]
+  },
+  "animal": {
+    "é_um": ["ser_vivo"],
+    "tem": ["corpo"],
+    "come": []
+  },
+  "felino": {
+    "é_um": ["animal"],
+    "tem": ["garras"],
+    "come": ["carne"]
+  },
+  "cachorro": {
+    "é_um": ["animal", "canino"],
+    "tem": ["pelo", "patas", "cauda"],
+    "come": ["carne"]
+  },
+  "canino": {
+    "é_um": ["animal"],
+    "tem": [],
+    "come": []
+  },
+  "aguia": {
+    "é_um": ["animal", "ave"],
+    "tem": ["penas", "asas", "bico"],
+    "come": ["peixe", "roedores"]
+  },
+  "ave": {
+    "é_um": ["animal"],
+    "tem": ["penas", "asas", "bico"],
+    "come": []
+  },
+  "jacaré": {
+    "é_um": ["animal", "reptil"],
+    "tem": ["escamas", "mandibula poderosa", "cauda"],
+    "come": ["peixe", "ave", "repteis"]
+  },
+  "reptil": {
+    "é_um": ["animal"],
+    "tem": ["escamas"],
+    "come": []
+  },
+  "tatu": {
+    "é_um": ["animal", "mamifero"],
+    "tem": ["pele com placas ósseas", "garras", "focinho alongado"],
+    "come": ["insetos", "vermes"]
+  },
+  "mamifero": {
+    "é_um": ["animal"],
+    "tem": ["glândulas mamárias", "pelo"],
+    "come": []
+  },
+  "elefante": {
+    "é_um": ["animal", "mamifero"],
+    "tem": ["pele grossa", "tromba", "presas"],
+    "come": ["folhas", "frutas"]
+  },
+   "mamifero_aquatico": {
+    "é_um": ["animal", "mamifero"],
+    "tem": ["nadadeiras", "cauda", "respiração pulmonar"],
+    "come": ["peixe", "moluscos"]
+  },
+  "papagaio": {
+    "é_um": ["animal", "ave"],
+    "tem": ["penas coloridas", "asa", "bico curvo"],
+    "come": ["sementes", "frutas"]
+  },
+  "cobra": {
+    "é_um": ["animal", "reptil"],
+    "tem": ["escamas", "lingua bifurcada"],
+    "come": ["roedores", "lagartos"]
+  },
+  "baleia": {
+    "é_um": ["animal", "mamifero_aquatico"],
+    "tem": ["nadadeiras", "cauda larga", "respiração pulmonar"],
+    "come": ["peixe", "krill"]
+  },
+  "pinguim": {
+    "é_um": ["animal", "ave"],
+    "tem": ["penas impermeáveis", "asa curta", "nadadeiras"],
+    "come": ["peixe", "krill"]
+  }
+}
